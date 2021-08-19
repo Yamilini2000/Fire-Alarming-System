@@ -1,7 +1,7 @@
 # Fire-Alarming-System
 Hi all.
 
-The FAS(Fire Alarming System) checks if the videostream captured by the camera has fire in it. If the fire is monitored to be growing for >2 frames, the alarm goes on and the text messages are sent to the nearby fire station through mail and whatsapp.
+The FAS(Fire Alarming System) checks if the videostream captured by the camera has fire in it. If the fire is monitored to be growing for more than 2 frames, the alarm goes on and the text messages are sent to the nearby fire station through mail and whatsapp.
 
 FILE DESCRIPTION:
 
